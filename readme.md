@@ -7,11 +7,11 @@ This repo hosts a proposal to improve the accountability of our academic review 
 - ⭐ **Support**: If you agree with the proposal, consider starring this repo to signal support.  
 - 🔗 **Full proposal**: See below.
 
-# Fixing the Broken ML Review System: A Proposal for Reviewer Accountability
+# Fixing the Broken ML Review System: A Proposal for Reviewer Accountability in Reciprocal Review System
 
 ## 1. Motivation: The Current Crisis in Academic Review
 
-The machine learning conference review system is fundamentally broken, creating an unsustainable environment that threatens the integrity of our scientific community. Since submission volumes continue to grow exponentially, we face an increasingly dire situation where the quality of reviews has deteriorated to unacceptable levels.
+The machine learning conference review system is fundamentally broken, creating an unsustainable environment that threatens the integrity of our scientific community. The submission volumes continue to grow exponentially to a scale that cannot be handled with only voluntary reviewers, e.g. 11k for ICLR 2025, 13k for CVPR 2025, 12k for ICML 2025, 11k for ICCV 2025, ~30k for NeurIPS 2025. Therefore, starting from ICLR 2025, these conferences implemented the reciprocal review policy in which the qualified authors also need to review for the conference. We face an increasingly dire situation where the quality of reviews has deteriorated to unacceptable levels.
 
 ### The Core Problem
 
